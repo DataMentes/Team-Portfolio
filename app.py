@@ -12,28 +12,28 @@ teammates = [
      "bio": "Experienced in machine learning, deep learning, and MLOps.",
      "github": 'https://github.com/EzzAl-Din',
      "linkedin": 'https://www.linkedin.com/in/ezzal-din',
-     "portfolio": "https://ezzaldinaref.streamlit.app"
+     "portfolio": ""
      },
     {"name": "Sarah Ali",
      "role": "Data Analyst",
      "bio": "Skilled in data visualization and statistical analysis.",
      "github": 'https://github.com/',
      "linkedin": 'https://www.linkedin.com/',
-     "portfolio": "https://ezzaldinaref.streamlit.app"
+     "portfolio": ""
      },
     {"name": "Omar El-Sayed",
      "role": "ML Engineer",
      "bio": "Passionate about AI and deep learning.",
      "github": 'https://github.com/',
      "linkedin": 'https://www.linkedin.com/',
-     "portfolio": "https://ezzaldinaref.streamlit.app"
+     "portfolio": ""
      },
     {"name": "Mona Ibrahim",
      "role": "Business Analyst",
      "bio": "Expert in market research and business strategy.",
      "github": 'https://github.com/',
      "linkedin": 'https://www.linkedin.com/',
-     "portfolio": "https://ezzaldinaref.streamlit.app"
+     "portfolio": ""
      }
 ]
 
