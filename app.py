@@ -14,11 +14,11 @@ teammates = [
      "linkedin": 'https://www.linkedin.com/in/ezzal-din',
      "portfolio": ""
      },
-    {"name": "Sarah Ali",
-     "role": "Data Analyst",
-     "bio": "Skilled in data visualization and statistical analysis.",
-     "github": 'https://github.com/',
-     "linkedin": 'https://www.linkedin.com/',
+    {"name": "Adel Maher Hakim Pekhet",
+     "role": "Data Analyst ",
+     "bio": "Experienced in data analysis and data science .",
+     "github": 'https://github.com/Adel-Maher',
+     "linkedin": 'https://www.linkedin.com/in/adel-maher-52b908315 ',
      "portfolio": ""
      },
     {"name": "Omar El-Sayed",
