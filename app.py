@@ -49,7 +49,7 @@ def main():
     st.title("Meet the DataMentes Team")
     for member in teammates:
         st.subheader(member["name"])
-        st.text(f"**Role:** {member["role"]}")
+        st.markdown(f"**Role:** {member['role']}")
         st.markdown(f"**Summary:** {member['bio']}")
         st.markdown(f"**View GitHub:** [{member['github']}]({member['github']})")
         st.markdown(f"**View LinkedIn:** [{member['linkedin']}]({member['linkedin']})")
@@ -59,7 +59,7 @@ def main():
     # ---------------------------
     # Footer or Credits
     # ---------------------------
-    st.markdown("Created by DataMentes Team ")
+    st.markdown("Created by DataMentes Team")
 
 
 if __name__ == "__main__":
