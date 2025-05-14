@@ -21,18 +21,18 @@ teammates = [
      "linkedin": 'https://www.linkedin.com/in/adel-maher-52b908315 ',
      "portfolio": ""
      },
-    {"name": "Omar El-Sayed",
-     "role": "ML Engineer",
+    {"name": "Abdallah Mohamed Mohamed Rashad",
+     "role": "Data scientist",
      "bio": "Passionate about AI and deep learning.",
      "github": 'https://github.com/',
      "linkedin": 'https://www.linkedin.com/',
      "portfolio": ""
      },
-    {"name": "Mona Ibrahim",
-     "role": "Business Analyst",
+    {"name": "Ali Ahmed Youssef",
+     "role": "Data scientist",
      "bio": "Expert in market research and business strategy.",
-     "github": 'https://github.com/',
-     "linkedin": 'https://www.linkedin.com/',
+     "github": 'https://github.com/ZeeeCS',
+     "linkedin": 'www.linkedin.com/in/aliahmed-11m04',
      "portfolio": ""
      }
 ]
