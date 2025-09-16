@@ -33,7 +33,7 @@ teammates = [
      "bio": "Expert in market research and business strategy.",
      "github": 'https://github.com/ZeeeCS',
      "linkedin": 'www.linkedin.com/in/aliahmed-11m04',
-     "portfolio": ""
+     "portfolio": "https://zeeeecs.github.io/"
      }
 ]
 
